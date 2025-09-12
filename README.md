@@ -24,7 +24,7 @@ The objective of this dashboard is to help HR teams and business leaders:
 - **DAX (Data Analysis Expressions)** for calculated measures
 - **Interactive Visuals**: Slicers, filters, and drill-through pages
 
-## 📂 Repository Structure
+## 📂 ScreenShot
 
 
 
