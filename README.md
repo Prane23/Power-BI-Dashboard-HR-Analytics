@@ -29,4 +29,5 @@ The objective of this dashboard is to help HR teams and business leaders:
 
 
 
-<img width="1744" height="879" alt="image" src="https://github.com/user-attachments/assets/55ea955b-f3a9-45fb-9f2b-bae345940a77" />
+<img width="1953" height="947" alt="image" src="https://github.com/user-attachments/assets/b854d42e-6aa0-4842-8cd6-7e7c400e8831" />
+
